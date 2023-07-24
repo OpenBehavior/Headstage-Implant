@@ -8,6 +8,7 @@ Open-source, 3D printed methods for head stage implant protection and portable/w
 
 Original posting: https://figshare.com/s/31122e0263c47fa5dabd
 
-Validated by Kevin Chávez-López on behalf of the OpenBehavior project.
+This work is licensed under an [Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).
 
-Notice: The original design is not licensed. We would suggest reaching out to the designer for further clarification.
+
+Validated by Kevin Chávez-López on behalf of the OpenBehavior project.
